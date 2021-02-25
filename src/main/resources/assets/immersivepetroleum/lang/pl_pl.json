@@ -48,59 +48,59 @@
 	"_comment": "################## Descriptions ##################",
 	
 	"_comment":"Replaced the IP with IE to save me from headaches. ~TwistedGate",
-	"desc.immersiveengineering.info.multiblock.IE:DistillationTower": "Distillation Tower",
-	"desc.immersiveengineering.info.multiblock.IE:Pumpjack": "Pumpjack",
+	"desc.immersiveengineering.info.multiblock.IE:DistillationTower": "Kolumna Rektyfikacyjna",
+	"desc.immersiveengineering.info.multiblock.IE:Pumpjack": "Kiwon",
 	
-	"desc.immersivepetroleum.info.reservoir.oil": "Oil Reservoir",
-	"desc.immersivepetroleum.info.reservoir.aquifer": "Aquifer",
-	"desc.immersivepetroleum.info.reservoir.lava": "Magma Chamber",
+	"desc.immersivepetroleum.info.reservoir.oil": "Złoże Ropy Naftowej",
+	"desc.immersivepetroleum.info.reservoir.aquifer": "Warstwa Wodonośna",
+	"desc.immersivepetroleum.info.reservoir.lava": "Komnata Magmowa",
 	
-	"desc.immersivepetroleum.flavour.upgrade_reinforced_hull": "Makes Motorboat fire resistant and increases its health",
-	"desc.immersivepetroleum.flavour.upgrade_icebreaker": "Allows Motorboat to destroy ice and harm mobs",
-	"desc.immersivepetroleum.flavour.upgrade_tank": "Increases fuel tank capacity for Motorboat",
-	"desc.immersivepetroleum.flavour.upgrade_rudders": "Allows for tighter turns in the Motorboat",
-	"desc.immersivepetroleum.flavour.upgrade_paddles": "Can paddle Motorboat when out of fuel",
+	"desc.immersivepetroleum.flavour.upgrade_reinforced_hull": "Sprawia motorówkę ognio-odporną i bardziej wytrzymałą",
+	"desc.immersivepetroleum.flavour.upgrade_icebreaker": "Pozwala mnotorówce rozbijać lód i krzywdzić moby",
+	"desc.immersivepetroleum.flavour.upgrade_tank": "Powiększony bak paliwa dla motorówki",
+	"desc.immersivepetroleum.flavour.upgrade_rudders": "Umożliwia ciaśniejsze skręty w motorówce",
+	"desc.immersivepetroleum.flavour.upgrade_paddles": "Można wiosłować motorówkę przy braku paliwa",
 	
-	"desc.immersivepetroleum.flavour.asphalt": "Increases walking speed by %1$s",
+	"desc.immersivepetroleum.flavour.asphalt": "Zwiększa prędkość chodzenia o %1$s",
 	
 	"_comment": "This is for the upgrade list of the speedboat tooltip",
-	"desc.immersivepetroleum.flavour.speedboat0": "Upgrade(s)",
+	"desc.immersivepetroleum.flavour.speedboat0": "Ulepszenia:",
 	
-	"desc.immersivepetroleum.info.projector.noMultiblock": "Right-Click to open Menu",
-	"desc.immersivepetroleum.info.projector.size": "Size: %d x %d x %d",
-	"desc.immersivepetroleum.info.projector.build0": "Displays instructions",
-	"desc.immersivepetroleum.info.projector.build1": "for making a %s",
-	"desc.immersivepetroleum.info.projector.center": "Centered at [%d, %d, %d]",
+	"desc.immersivepetroleum.info.projector.noMultiblock": "Prawy Przycisk by otworzyć Menu",
+	"desc.immersivepetroleum.info.projector.size": "Wymiary: %d x %d x %d",
+	"desc.immersivepetroleum.info.projector.build0": "Wyświetla instrukcje",
+	"desc.immersivepetroleum.info.projector.build1": "do konstrukcji: %s",
+	"desc.immersivepetroleum.info.projector.center": "Wyśrodkowane o: [%d, %d, %d]",
 	
-	"desc.immersivepetroleum.info.projector.flipped.true": "Mirrored: Yes.",
-	"desc.immersivepetroleum.info.projector.flipped.false": "Mirrored: No.",
+	"desc.immersivepetroleum.info.projector.flipped.true": "Lustrzane odbicie: Tak.",
+	"desc.immersivepetroleum.info.projector.flipped.false": "Lustrzane odbicie: Nie.",
 	
-	"desc.immersivepetroleum.info.projector.rotated.north":"Rotated North",
-	"desc.immersivepetroleum.info.projector.rotated.east":  "Rotated East",
-	"desc.immersivepetroleum.info.projector.rotated.south": "Rotated South",
-	"desc.immersivepetroleum.info.projector.rotated.west": "Rotated West",
+	"desc.immersivepetroleum.info.projector.rotated.north":"Obrócono na Północ",
+	"desc.immersivepetroleum.info.projector.rotated.east":  "Obrócono na Wschód",
+	"desc.immersivepetroleum.info.projector.rotated.south": "Obrócono na Południe",
+	"desc.immersivepetroleum.info.projector.rotated.west": "Obrócono na Zavhód",
 	
-	"desc.immersivepetroleum.info.projector.mode_0": "Selection Mode",
-	"desc.immersivepetroleum.info.projector.mode_1": "Projection Mode",
+	"desc.immersivepetroleum.info.projector.mode_0": "Tryb Wyboru",
+	"desc.immersivepetroleum.info.projector.mode_1": "Tryb Projekcji",
 	
-	"desc.immersivepetroleum.info.projector.holdshift": "Hold Shift",
-	"desc.immersivepetroleum.info.projector.holdshift.text": "For settings",
+	"desc.immersivepetroleum.info.projector.holdshift": "Przytrzymaj Shift",
+	"desc.immersivepetroleum.info.projector.holdshift.text": "dla ustawień",
 	
-	"desc.immersivepetroleum.info.projector.holdctrl": "Hold Ctrl",
-	"desc.immersivepetroleum.info.projector.holdctrl.text": "For control scheme",
+	"desc.immersivepetroleum.info.projector.holdctrl": "Przytrzymaj Ctrl",
+	"desc.immersivepetroleum.info.projector.holdctrl.text": "do schemy kontroli",
 	
-	"desc.immersivepetroleum.info.projector.control1": "Shift + Scroll-UP/DOWN to Rotate",
-	"desc.immersivepetroleum.info.projector.control2": "%s to Mirror",
-	"desc.immersivepetroleum.info.projector.control3": "Sneak + Rightclick in air to Change Mode",
+	"desc.immersivepetroleum.info.projector.control1": "Shift + Scroll-UP/DOWN by obrócić",
+	"desc.immersivepetroleum.info.projector.control2": "%s by odbić lustrzanie",
+	"desc.immersivepetroleum.info.projector.control3": "Sneak + Rightclick w powietrzy by zmienić tryb",
 	
 	"_comment": "################## GUI ##################",
 	
-	"gui.immersivepetroleum.projector.search": "Search",
-	"gui.immersivepetroleum.projector.button.confirm": "Confirm",
-	"gui.immersivepetroleum.projector.button.cancel": "Cancel",
-	"gui.immersivepetroleum.projector.button.mirror": "Mirror",
-	"gui.immersivepetroleum.projector.button.rcw": "Rotate Clockwise",
-	"gui.immersivepetroleum.projector.button.rccw": "Rotate Counter-Clockwise",
+	"gui.immersivepetroleum.projector.search": "Szukaj",
+	"gui.immersivepetroleum.projector.button.confirm": "Zatwierdż",
+	"gui.immersivepetroleum.projector.button.cancel": "Anuluj",
+	"gui.immersivepetroleum.projector.button.mirror": "Lustranie odbicie",
+	"gui.immersivepetroleum.projector.button.rcw": "Obrót w prawo",
+	"gui.immersivepetroleum.projector.button.rccw": "Obrót w lewo",
 	
 	"_comment": "################## IE-Manual ##################",
 	
@@ -108,18 +108,18 @@
 	
 	"_comment": "################## IE-Manual ##################",
 	
-	"manual.immersivepetroleum.main": "Oil Processing",
+	"manual.immersivepetroleum.main": "Przemusł Petrochemiczny",
 	
 	"ie.manual.entry.blank_text": "",
 	
-	"ie.manual.entry.reservoirs.title": "Fluid Reservoirs",
-	"ie.manual.entry.reservoirs.subtitle": "Black gold",
+	"ie.manual.entry.reservoirs.title": "Zbiorniki płynów",
+	"ie.manual.entry.reservoirs.subtitle": "Czarne złoto",
 	
-	"ie.manual.entry.reservoirs.oil0": "While mining near bedrock, you've occasionally noticed a slick black flammable substance: oil. Oil is just one of many fluids that can be found underneath the impenetrable rock, but you won't be able to breach these reserves on your own.\n\nWith the help of a <link;immersivepetroleum:pumpjack;§o§nspecially §o§ndesigned §o§nmachine§r> you may be able to get your hands on the contents of these reservoirs.<np>",
+	"ie.manual.entry.reservoirs.oil0": "Podczas wykopów przy skale macierzystej, czasami znajdowałeś czarny łatwopalny płyn: ropę. Ropa Naftowa jest jedną z płynów poniżej tej skały, ale samemu się do nich nie dostaniesz.\n\nZa pomocą <link;immersivepetroleum:pumpjack;§o§nspecjalnie §o§nzaprojektowanej §o§nmaszyny§r>, możesz dostać się do tych złóż.<np>",
 	"ie.manual.entry.reservoirs.oil1": "The <link;minerals;§o§nCore §o§nSample §o§nDrill§r> will determine whether a reservoir can be found in a specific chunk and gives insight into the size of the fluid deposit.\n\nDespite the finite volume of fluid in each chunk, certain types of reservoirs may have trace amounts of fluid that can still be harvested after the chunk is depleted. Using more than one Pumpjack in a depleted chunk does not provide any benefit.<np>",
 	
-	"ie.manual.entry.reservoirs.consonant": "A",
-	"ie.manual.entry.reservoirs.vowel": "An",
+	"ie.manual.entry.reservoirs.consonant": "",
+	"ie.manual.entry.reservoirs.vowel": "",
 	
 	"ie.manual.entry.reservoirs.dim.valid": "%3$s §l%1$s§r is a type of fluid reservoir that can be found in %2$s.",
 	"ie.manual.entry.reservoirs.dim.invalid": "%3$s §l%1$s§r is a type of fluid reservoir that can be found anywhere but in %2$s.",
