@@ -3,47 +3,47 @@
 	
 	"_comment": "################## Blocks ##################",
 	
-	"block.immersivepetroleum.fluid_diesel": "Diesel",
-	"block.immersivepetroleum.fluid_crude_oil": "Crude Oil",
-	"block.immersivepetroleum.fluid_lubricant": "Lubricant",
-	"block.immersivepetroleum.fluid_gasoline": "Gasoline",
+	"block.immersivepetroleum.fluid_diesel": "Olej Napędowy
+	"block.immersivepetroleum.fluid_crude_oil": "Ropa Naftowa
+	"block.immersivepetroleum.fluid_lubricant": "Smar
+	"block.immersivepetroleum.fluid_gasoline": "Benzyna
 	"block.immersivepetroleum.fluid_napalm": "Napalm",
 	
-	"block.immersivepetroleum.asphalt": "Asphalt Concrete",
+	"block.immersivepetroleum.asphalt": "Asfalt",
 	
-	"block.immersivepetroleum.auto_lubricator": "Automatic Lubricator",
-	"block.immersivepetroleum.gas_generator": "Portable Generator",
-	"block.immersivepetroleum.flarestack": "Flarestack",
+	"block.immersivepetroleum.auto_lubricator": "Automatyczna Smarownica
+	"block.immersivepetroleum.gas_generator": "Przenośny Generator",
+	"block.immersivepetroleum.flarestack": "Pochodnia Gazowa",
 	
-	"block.immersivepetroleum.pumpjack": "Pumpjack",
-	"block.immersivepetroleum.distillationtower": "Distillation Tower",
+	"block.immersivepetroleum.pumpjack": "Kiwon",
+	"block.immersivepetroleum.distillationtower": "Kolumna Rektyfikacyjna",
 	
-	"fluid.immersivepetroleum.diesel": "Diesel",
-	"fluid.immersivepetroleum.oil": "Crude Oil",
-	"fluid.immersivepetroleum.lubricant": "Lubricant",
-	"fluid.immersivepetroleum.gasoline": "Gasoline",
+	"fluid.immersivepetroleum.diesel": "Olej napędowy",
+	"fluid.immersivepetroleum.oil": "Ropa Naftowa",
+	"fluid.immersivepetroleum.lubricant": "Smar",
+	"fluid.immersivepetroleum.gasoline": "Benzyna",
 	"fluid.immersivepetroleum.napalm": "Napalm",
 	
 	"_comment": "################## Items ##################",
 	
-	"item.immersivepetroleum.projector": "Projector",
-	"item.immersivepetroleum.projector.specific": "%s Projector",
-	"item.immersivepetroleum.speedboat": "Motorboat",
-	"item.immersivepetroleum.oil_can": "Lubricant Can",
+	"item.immersivepetroleum.projector": "Projektor",
+	"item.immersivepetroleum.projector.specific": "Projektor: %s",
+	"item.immersivepetroleum.speedboat": "Motorówka",
+	"item.immersivepetroleum.oil_can": "Smarownica",
 	
-	"item.immersivepetroleum.bitumen": "Bitumen",
-	"item.immersivepetroleum.petcoke": "Petcoke",
-	"item.immersivepetroleum.diesel_bucket": "Bucket of Diesel",
-	"item.immersivepetroleum.oil_bucket": "Bucket of Crude Oil",
-	"item.immersivepetroleum.lubricant_bucket": "Bucket of Lubricant",
-	"item.immersivepetroleum.gasoline_bucket": "Bucket of Gasoline",
-	"item.immersivepetroleum.napalm_bucket": "Bucket of Napalm",
+	"item.immersivepetroleum.bitumen": "Asfalt",
+	"item.immersivepetroleum.petcoke": "Koks Naftowy",
+	"item.immersivepetroleum.diesel_bucket": "Wiadro Oleju Napędowego",
+	"item.immersivepetroleum.oil_bucket": "Wiadro Ropy Naftowej",
+	"item.immersivepetroleum.lubricant_bucket": "Wiadro Smaru",
+	"item.immersivepetroleum.gasoline_bucket": "Wiadro Benzyny",
+	"item.immersivepetroleum.napalm_bucket": "Wiadro Napalmu",
 	
-	"item.immersivepetroleum.upgrade_reinforced_hull": "Reinforced Hull",
-	"item.immersivepetroleum.upgrade_icebreaker": "Icebreaker Bow",
-	"item.immersivepetroleum.upgrade_tank": "Expanded Fuel Tank",
-	"item.immersivepetroleum.upgrade_rudders": "Maneuvering Rudders",
-	"item.immersivepetroleum.upgrade_paddles": "Emergency Paddles",
+	"item.immersivepetroleum.upgrade_reinforced_hull": "Wzmocniony Kadłub",
+	"item.immersivepetroleum.upgrade_icebreaker": "łamacz Lodu",
+	"item.immersivepetroleum.upgrade_tank": "Powiększony Bak Paliwa",
+	"item.immersivepetroleum.upgrade_rudders": "Stery Manewrujące",
+	"item.immersivepetroleum.upgrade_paddles": "Awaryjne Wiosła",
 	
 	"_comment": "################## Descriptions ##################",
 	
